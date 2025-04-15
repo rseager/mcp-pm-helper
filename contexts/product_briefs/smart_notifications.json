@@ -1,0 +1,17 @@
+{
+    "title": "Smart Notification System",
+    "problem": "Users receive irrelevant notifications and become desensitized.",
+    "goals": [
+      "Increase notification click-through rate by 15%",
+      "Reduce opt-out rate by 25%",
+      "Improve DAU by 10%"
+    ],
+    "target_users": ["Power users", "Mobile-first users"],
+    "key_features": [
+      "User-configurable notification preferences",
+      "AI relevance scoring engine",
+      "Cross-device sync"
+    ],
+    "constraints": ["Must work offline", "No additional backend services"]
+  }
+  

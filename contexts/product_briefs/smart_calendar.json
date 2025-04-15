@@ -1,0 +1,20 @@
+{
+    "title": "AI Calendar Assistant",
+    "problem": "Busy professionals struggle to manage their time effectively across meetings, tasks, and personal obligations. Existing tools are passive and lack proactive guidance.",
+    "goals": [
+      "Help users plan their day more intelligently",
+      "Provide proactive schedule recommendations",
+      "Minimize conflicts and maximize focus time"
+    ],
+    "target_users": ["Remote workers", "Executives", "Students"],
+    "key_features": [
+      "AI-powered schedule optimizer",
+      "Smart conflict detection and resolution",
+      "Daily agenda summaries and prep tips"
+    ],
+    "constraints": [
+      "Must integrate with Google Calendar and Outlook",
+      "Must support recurring and flexible events"
+    ]
+  }
+  

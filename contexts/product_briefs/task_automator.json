@@ -1,0 +1,20 @@
+{
+    "title": "Task Automation Tool",
+    "problem": "Users waste time on repetitive workflows across apps and services. They need a simpler way to automate multi-step tasks without coding.",
+    "goals": [
+      "Enable users to build and run automation workflows",
+      "Integrate with popular SaaS and productivity tools",
+      "Provide visual editor for workflow configuration"
+    ],
+    "target_users": ["Productivity enthusiasts", "Operations teams", "Freelancers"],
+    "key_features": [
+      "Drag-and-drop workflow builder",
+      "Prebuilt automation templates",
+      "Event-based triggers and scheduled runs"
+    ],
+    "constraints": [
+      "Must run in-browser with no local installation",
+      "No backend database; workflows stored in localStorage or downloadable"
+    ]
+  }
+  

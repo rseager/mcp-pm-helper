@@ -1,0 +1,20 @@
+{
+    "title": "Content Curation Platform",
+    "problem": "Information overload makes it difficult for users to find high-quality, relevant content. Manual discovery and filtering are time-consuming.",
+    "goals": [
+      "Help users discover and save curated content",
+      "Use AI to rank and recommend articles",
+      "Allow users to share personalized content feeds"
+    ],
+    "target_users": ["Knowledge workers", "Researchers", "Newsletter creators"],
+    "key_features": [
+      "AI-driven content ranking and tagging",
+      "Personalized content dashboards",
+      "Browser extension for saving and annotating articles"
+    ],
+    "constraints": [
+      "Must support mobile and desktop browsers",
+      "Content sources limited to RSS, Twitter, and open news APIs"
+    ]
+  }
+  

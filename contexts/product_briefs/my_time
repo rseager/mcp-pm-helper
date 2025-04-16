@@ -1,0 +1,35 @@
+{
+  "id": "my_time",
+  "title": "My Time: Retirement Activity & Social Platform",
+  "problem": "Many retirees struggle with finding engaging ways to structure their time, maintain social connections, and discover meaningful activities post-retirement. Existing platforms are fragmented, impersonal, or not tailored to the needs of this age group.",
+  "goals": [
+    "Empower retirees to stay active, socially connected, and mentally engaged",
+    "Bridge the gap between retirees and businesses offering relevant services",
+    "Create a safe, inclusive digital community tailored to retirement lifestyles",
+    "Establish a two-sided marketplace where retirees discover, book, and share activities",
+    "Support lifelong learning, volunteering, and social bonding post-retirement"
+  ],
+  "target_users": [
+    "Recently retired individuals (age 55+) seeking structure and connection",
+    "Established retirees looking for new activities, travel, or friend groups",
+    "Tech-savvy seniors eager to explore curated experiences",
+    "Socially isolated individuals looking to re-engage with their community"
+  ],
+  "key_features": [
+    "Discovery feed with personalized activity and event recommendations",
+    "Interactive map and filtering tools for exploring opportunities by location",
+    "Marketplace for businesses to list offers and events for retirees",
+    "User profiles with interests, badges, and social connections",
+    "Groups and clubs with forums, event planning, and chat capabilities",
+    "Direct messaging, event-specific chats, and friend systems",
+    "Wishlist and scheduling tools with calendar integration and reminders",
+    "Accessibility-first design with large fonts, simple navigation, and optional voice support",
+    "Provider dashboard for managing listings, bookings, and engagement"
+  ],
+  "constraints": [
+    "High emphasis on accessibility (contrast, text size, touch targets)",
+    "Must protect user privacy with configurable visibility and messaging options",
+    "Needs moderation tools and community reporting mechanisms",
+    "Must accommodate both mobile-first UX and provider-friendly web portals"
+  ]
+}

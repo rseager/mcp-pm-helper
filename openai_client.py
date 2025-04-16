@@ -10,6 +10,6 @@ def call_openai(prompt_messages):
         model="gpt-3.5-turbo",
         messages=prompt_messages,
         temperature=0.7,
-        max_tokens=800
+        max_tokens=400
     )
     return response.choices[0].message.content

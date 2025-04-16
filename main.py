@@ -2,6 +2,7 @@ from fastapi import FastAPI, Query
 from prompt_builder import build_prompt
 from openai_client import call_openai
 from fastapi.middleware.cors import CORSMiddleware
+import briefs_router # Import the new router
 
 app = FastAPI()
 
@@ -12,6 +13,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Include the briefs router
+app.include_router(briefs_router.router)
 
 @app.get("/generate")
 def generate_output(
